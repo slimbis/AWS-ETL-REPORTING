@@ -1,6 +1,6 @@
 ## ETL processing pipeline for COVID-19 data using AWS services and Python
 
-This project is for an automatic ETL processin pipeline for Covid-19 data for Greece (or any other selected country) using AWS services and Python code.
+This project is for an automatic ETL processing pipeline for Covid-19 data for Greece (or any other selected country) using AWS services and Python code.
 
 The data are downloaded from John Hopkins CSSE's github repository (https://github.com/CSSEGISandData) and specifically the time series data (https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series). The data are updated daily around 23:59 (UTC).
 
